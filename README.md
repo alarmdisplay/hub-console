@@ -1,5 +1,7 @@
 # hub-console
 
+**This repository is now part of https://github.com/alarmdisplay/hub**
+
 ## Project setup
 ```
 npm install
